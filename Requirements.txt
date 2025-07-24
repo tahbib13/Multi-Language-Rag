@@ -1,0 +1,8 @@
+langchain-community
+langchain-text-splitters
+transformers
+torch
+faiss-cpu
+scikit-learn
+numpy
+PyPDF2
